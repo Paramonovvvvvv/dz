@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500..');
+body{
+  width: 1920px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+.wrapper {
+  width: 1800px;
+  margin: auto 300px;
+}
+.H1_about{
+  text-align: left;
+  color: #505F98;
+  margin-top: 100px;
+}
+.Title_Goes_Here{
+  width: 300px;
+  height: 100px;
+  text-align: left;
+  color: #505F98;
+}
+.img_title_goes_here{
+  width: 50px;
+  height: 50px;
+}
+.img_title_goes_here img{
+  width: 50px;
+  height: 50px;
+}
+.Text_div{
+  text-align: left;
+  width: 400px;
+  height: 75px;
+  color: #505F98;
+}
+.Title_Goes_Here_wrap{
+  display: flex;
+}
+.about{
+  background-image: url(../img/girl.png); width: 1200px; height: 500px;
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
+.Texts_divs{
+  margin-bottom: 50px;
+}
+.about_div{
+  justify-content: center;
+}
